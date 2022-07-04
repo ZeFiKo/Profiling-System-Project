@@ -1,0 +1,9 @@
+C:\Users\Mote\AppData\Local\Temporary Projects\System\bin\Release\System.exe
+C:\Users\Mote\AppData\Local\Temporary Projects\System\bin\Release\System.pdb
+C:\Users\Mote\AppData\Local\Temporary Projects\System\bin\Release\System.xml
+C:\Users\Mote\AppData\Local\Temporary Projects\System\obj\x86\Release\System.Form1.resources
+C:\Users\Mote\AppData\Local\Temporary Projects\System\obj\x86\Release\System.Resources.resources
+C:\Users\Mote\AppData\Local\Temporary Projects\System\obj\x86\Release\System.vbproj.GenerateResource.Cache
+C:\Users\Mote\AppData\Local\Temporary Projects\System\obj\x86\Release\System.exe
+C:\Users\Mote\AppData\Local\Temporary Projects\System\obj\x86\Release\System.xml
+C:\Users\Mote\AppData\Local\Temporary Projects\System\obj\x86\Release\System.pdb
